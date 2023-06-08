@@ -2,6 +2,8 @@
 
 This Python script allows you to track National Football League (NFL) games in real-time. It fetches the live score data from the web, specifically from thescore.com, and then parses and presents this data in a clean and easy-to-understand format in a terminal window. I designed this in order to avoid expensive APIs.
 
+#### Video Demo: <https://youtu.be/y_v8K6ANQqM>
+
 ## Features
 
 - Real-time game tracking
